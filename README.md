@@ -1,0 +1,1 @@
+# Classe D.A.L._encapsular string_em_ADO.NET
